@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarrb123&label=Profile%20views&color=0e75b6&style=flat" alt="sagarrb123" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/SagarRB123?tab=projects](https://github.com/SagarRB123?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/SagarRB123?tab=repositories](https://github.com/SagarRB123?tab=repositories)
 
 - 💬 Ask me about **Mobile app development, Java, Firebase, and practical problem-solving**
 
